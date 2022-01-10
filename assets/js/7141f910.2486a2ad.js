@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprimext_docs=self.webpackChunkprimext_docs||[]).push([[761],{9089:function(e){e.exports=JSON.parse('{"allTagsPath":"/primext/blog/tags","slug":"/primext/blog/tags/hello","name":"hello","count":2,"permalink":"/primext/blog/tags/hello"}')}}]);
