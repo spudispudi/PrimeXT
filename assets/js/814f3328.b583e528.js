@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprimext_docs=self.webpackChunkprimext_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/primext/blog/welcome"},{"title":"MDX Blog Post","permalink":"/primext/blog/mdx-blog-post"},{"title":"Long Blog Post","permalink":"/primext/blog/long-blog-post"}]}')}}]);

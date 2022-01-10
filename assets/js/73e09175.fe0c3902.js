@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprimext_docs=self.webpackChunkprimext_docs||[]).push([[418],{1140:function(s){s.exports=JSON.parse('{"allTagsPath":"/primext/blog/tags","slug":"/primext/blog/tags/docusaurus","name":"docusaurus","count":3,"permalink":"/primext/blog/tags/docusaurus"}')}}]);
